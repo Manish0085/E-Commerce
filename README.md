@@ -2,7 +2,8 @@
 
 ## Overview
 
-This repository contains a collection of fully completed microservices built with Spring Boot version 3.2.5 and Java 17. The project utilizes Spring Cloud version 2023.0.1 for implementing various distributed system patterns and features.
+This repository contains a complete microservices-based architecture developed using Spring Boot 3.2.5, Spring Cloud 2023.0.1, and Java 17.
+Each microservice is independently deployable and communicates through REST APIs or Kafka for asynchronous messaging.
 
 ## Microservices Description
 
